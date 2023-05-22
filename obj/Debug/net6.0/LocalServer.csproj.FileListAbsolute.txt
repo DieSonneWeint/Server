@@ -1,0 +1,15 @@
+C:\Users\drago\source\repos\LocalServer\obj\Debug\net6.0\LocalServer.csproj.AssemblyReference.cache
+C:\Users\drago\source\repos\LocalServer\obj\Debug\net6.0\LocalServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\source\repos\LocalServer\obj\Debug\net6.0\LocalServer.AssemblyInfoInputs.cache
+C:\Users\drago\source\repos\LocalServer\obj\Debug\net6.0\LocalServer.AssemblyInfo.cs
+C:\Users\drago\source\repos\LocalServer\obj\Debug\net6.0\LocalServer.csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\LocalServer\bin\Debug\net6.0\LocalServer.exe
+C:\Users\drago\source\repos\LocalServer\bin\Debug\net6.0\LocalServer.deps.json
+C:\Users\drago\source\repos\LocalServer\bin\Debug\net6.0\LocalServer.runtimeconfig.json
+C:\Users\drago\source\repos\LocalServer\bin\Debug\net6.0\LocalServer.dll
+C:\Users\drago\source\repos\LocalServer\bin\Debug\net6.0\LocalServer.pdb
+C:\Users\drago\source\repos\LocalServer\obj\Debug\net6.0\LocalServer.dll
+C:\Users\drago\source\repos\LocalServer\obj\Debug\net6.0\refint\LocalServer.dll
+C:\Users\drago\source\repos\LocalServer\obj\Debug\net6.0\LocalServer.pdb
+C:\Users\drago\source\repos\LocalServer\obj\Debug\net6.0\LocalServer.genruntimeconfig.cache
+C:\Users\drago\source\repos\LocalServer\obj\Debug\net6.0\ref\LocalServer.dll
